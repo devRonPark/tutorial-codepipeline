@@ -1,0 +1,1 @@
+docker run -d --rm --name tutorial -p 3000:3000 -v /home/ubuntu/tutorial-codepipeline:/app tutorial:latest
